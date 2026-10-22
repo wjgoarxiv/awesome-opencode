@@ -1,0 +1,7 @@
+name: LitOpenCode
+repo: https://github.com/wjgoarxiv/litopencode
+tagline: Adds lit so OpenCode plans the work, checks it with tests, reviews it, and writes a handoff.
+description: LitOpenCode adds lit to an OpenCode prompt. The request is planned, built with tests and recorded checks, reviewed, and closed with a handoff note in the project. It includes 46 skills and is MIT licensed. Install with npm exec --package @litfamily/litopencode@latest -- litopencode install.
+scope:
+  - global
+installation: npm exec --package @litfamily/litopencode@latest -- litopencode install
